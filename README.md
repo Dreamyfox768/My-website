@@ -13,10 +13,10 @@ my-website/
 ├── README.md
 ├── .gitignore
 │
-├── css/
+├── design/
 │   └── style.css
 │
-├── js/
+├── script/
 │   └── script.js
 │
 ├── images/
