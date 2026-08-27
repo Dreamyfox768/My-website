@@ -1,11 +1,13 @@
-# My-website
+# My Website
 
+## Overview
 
+This is my personal website project. It is built using HTML, CSS, and JavaScript.
 
+## Project Structure
 
-***
-**workflow**
-- my-website/
+```text
+my-website/
 │
 ├── index.html
 ├── README.md
@@ -29,4 +31,3 @@
 │
 └── docs/
     └── notes.md
-***
