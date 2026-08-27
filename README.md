@@ -4,6 +4,9 @@
 
 This is my personal website project. It is built using HTML, CSS, and JavaScript.
 
+![Uploading Screenshot 2026-08-27 at 2.58.10 PM.png…]()
+
+
 ## Project Structure
 
 ```text
