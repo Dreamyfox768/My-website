@@ -1,10 +1,11 @@
 # My Website
 
+<img width="2926" height="1322" alt="pics" src="https://github.com/user-attachments/assets/ced3d61a-a287-430a-a57f-5b58883fe671" />
+
 ## Overview
 
 This is my personal website project. It is built using HTML, CSS, and JavaScript.
 
-![Uploading Screenshot 2026-08-27 at 2.58.10 PM.png…]()
 
 
 ## Project Structure
