@@ -3,9 +3,9 @@
 
 
 
-
+***
 **workflow**
-my-website/
+- my-website/
 │
 ├── index.html
 ├── README.md
@@ -29,3 +29,4 @@ my-website/
 │
 └── docs/
     └── notes.md
+***
