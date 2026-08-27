@@ -20,14 +20,12 @@ my-website/
 │   └── script.js
 │
 ├── images/
-│   ├── logo.png
-│   ├── hero.jpg
-│   └── ...
+│   ├── something.png
+│   ├── something.jpg
+│   └── something.gif
 │
 ├── pages/
 │   ├── about.html
 │   ├── services.html
 │   └── contact.html
-│
-└── docs/
-    └── notes.md
+└── 
