@@ -1,6 +1,8 @@
 # My Website
 
-<img width="2926" height="1322" alt="pics" src="https://github.com/user-attachments/assets/ced3d61a-a287-430a-a57f-5b58883fe671" />
+<img width="2920" height="1593" alt="2" src="https://github.com/user-attachments/assets/c2fa8dfa-b5c1-4af1-9a90-1f4f0cee4dcc" />
+<img width="2923" height="1609" alt="1" src="https://github.com/user-attachments/assets/9078a4bd-3bda-40f3-a79f-3c7909ca9358" />
+
 
 ## Overview
 
