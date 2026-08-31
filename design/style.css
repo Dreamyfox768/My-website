@@ -1,4 +1,44 @@
-h1 {
-    color: blue;
+html,
+body {
+    min-height: 80%;
+    background: rgb(9, 8, 8);
 }
 
+
+.page-content {
+    color: #00e1ff;
+    text-shadow:
+        0 0 5px #00e1ff,
+        0 0 10px #00e1ff,
+        0 0 20px #00e1ff;
+}
+
+
+
+button {
+    margin: 2px;
+    padding: 10px 20px;
+    background-color: rgb(9, 8, 8);
+    border: 2px solid #00e1ff;
+    border-radius: 5px;
+    box-shadow:
+        0 0 5px #00e1ff,
+        0 0 10px #00e1ff;
+    cursor: pointer;
+}
+
+button a {
+    color: #00e1ff;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+
+
+.pictures {
+    margin-top: 10px;
+        box-shadow:
+        0 0 5px #00e1ff,
+        0 0 10px #00e1ff;
+}
