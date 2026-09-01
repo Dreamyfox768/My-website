@@ -27,12 +27,14 @@ my-website/
 │   └── script.js
 │
 ├── images/
-│   ├── something.png
-│   ├── something.jpg
-│   └── something.gif
+│   ├── logo.png
+│   ├── hero.jpg
+│   └── ...
 │
 ├── pages/
 │   ├── about.html
-│   ├── services.html
-│   └── contact.html
+│   ├── Certification.html
+│   ├── Competition.html
+│   └── Project.html
+│
 └── 
