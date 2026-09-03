@@ -1,44 +1,44 @@
-html,
-body {
-    min-height: 80%;
-    background: rgb(9, 8, 8);
+body { /* selector and open and close brackets */
+    background: linear-gradient(black, black,  #00e1ff ); /* background color in gradient */
 }
 
-
-.page-content {
-    color: #00e1ff;
-    text-shadow:
+.page-content{
+    color:  #00e1ff; /* text color */
+}
+#welcome { /* selector can be the id and this info will get prioritized over the body selector due to specifity*/
+    color: #00e1ff; /* text color */
+    text-shadow:  
         0 0 5px #00e1ff,
         0 0 10px #00e1ff,
         0 0 20px #00e1ff;
 }
 
-
+#About {
+    color: #d61cda; 
+    text-shadow:
+        0 0 5px #d61cda,
+        0 0 10px #d61cda,
+        0 0 20px #d61cda;
+}
 
 button {
-    margin: 2px;
-    padding: 10px 20px;
-    background-color: rgb(9, 8, 8);
+    background-color: white
+    ;
+    color: teal 
+}
+
+
+button:hover {
+    background-color: #00e1ff;
+    color: black;
     border: 2px solid #00e1ff;
-    border-radius: 5px;
-    box-shadow:
-        0 0 5px #00e1ff,
-        0 0 10px #00e1ff;
-    cursor: pointer;
 }
 
-button a {
-    color: #00e1ff;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: monospace;
-}
+p{
+    color: yellow;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
 
-
-
-.pictures {
-    margin-top: 10px;
-        box-shadow:
-        0 0 5px #00e1ff,
-        0 0 10px #00e1ff;
 }
